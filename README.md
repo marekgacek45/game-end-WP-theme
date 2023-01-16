@@ -24,19 +24,11 @@
 ## General Info
 My personal website create on WP custom theme
 
-## Install
-If you want check this on your local computer please follow this steps:
-* Clone repo,
-* In the project directory, run: `npm i` and  `npm run`
-
-Or If you want only chceck project on website check  [live](#live)
-
 ## Technologies
 Project is created with:
 * HTML5
 * CSS3, SCSS (BEM-methodology)
 * PHP
-
 
 ## Sources
 In this project I used:
